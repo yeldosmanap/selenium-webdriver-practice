@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9a964057-481f-4b87-91e8-404cad81caf8" name="Changes" comment="Init project">
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment3/ChangePasswordTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment3/DeleteFileTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment3/LogInTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment3/SearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/assignment3/SignUpTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/BookFlightPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/LoginPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PropertiesReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TC111BookTicketTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/assignment2/task2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/assignment2/task2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/assignment3/SearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/assignment3/SearchTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,15 +42,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.editor"
   }
-}</component>
-  <component name="RunManager" selected="Application.LogInTest">
+}]]></component>
+  <component name="RunManager" selected="TestNG.TC111BookTicketTest">
     <configuration name="LogInTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="assignment3.LogInTest" />
       <module name="Yeldos_Manap_Selenium" />
@@ -61,61 +67,66 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignment2.task1.Main" />
+    <configuration name="TC111BookTicketTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Yeldos_Manap_Selenium" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TC111BookTicketTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SignUpTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignment3.SignUpTest" />
+    <configuration name="TC111BookTicketTest.test_Book_Flight" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Yeldos_Manap_Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="assignment3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TC111BookTicketTest" />
+      <option name="METHOD_NAME" value="test_Book_Flight" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="assignment2.task2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignment2.task2.Main" />
+    <configuration name="TC111BookTicketTest.test_Home_Page_Appear_Correct" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Yeldos_Manap_Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="assignment2.task2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TC111BookTicketTest" />
+      <option name="METHOD_NAME" value="test_Home_Page_Appear_Correct" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="assignment2.task3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignment2.task3.Main" />
+    <configuration name="TC111BookTicketTest.test_login" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="Yeldos_Manap_Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="assignment2.task3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TC111BookTicketTest" />
+      <option name="METHOD_NAME" value="test_login" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TC111BookTicketTest" />
+        <item itemvalue="TestNG.TC111BookTicketTest.test_login" />
+        <item itemvalue="TestNG.TC111BookTicketTest.test_Book_Flight" />
+        <item itemvalue="TestNG.TC111BookTicketTest.test_Home_Page_Appear_Correct" />
         <item itemvalue="Application.LogInTest" />
-        <item itemvalue="Application.SignUpTest" />
-        <item itemvalue="Application.assignment2.task3.Main" />
-        <item itemvalue="Application.assignment2.task2.Main" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SeleniumInternalSettingsState">
+    <option name="lastFrameworkName" value="Selenium" />
+    <option name="lastLanguageId" value="JAVA" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -128,7 +139,9 @@
       <workItem from="1663448272806" duration="282000" />
       <workItem from="1663448588926" duration="8151000" />
       <workItem from="1663613030809" duration="474000" />
-      <workItem from="1664052427047" duration="5124000" />
+      <workItem from="1664052427047" duration="5817000" />
+      <workItem from="1664298662115" duration="962000" />
+      <workItem from="1664391651047" duration="9510000" />
     </task>
     <task id="LOCAL-00001" summary="Init project">
       <created>1663449394439</created>

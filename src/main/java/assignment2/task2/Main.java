@@ -21,7 +21,7 @@ public class Main {
         driver.manage().window().maximize();
 
         // Finding elements for sign in and submit the data
-        driver.findElement(By.name("userName")).sendKeys("yeldosmanap");
+        driver.findElement(By.name("username")).sendKeys("yeldosmanap");
         driver.findElement(By.name("password")).sendKeys("1245emer");
         driver.findElement(By.name("submit")).click();
 

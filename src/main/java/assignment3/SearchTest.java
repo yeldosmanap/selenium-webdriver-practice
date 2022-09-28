@@ -48,7 +48,7 @@ public class SearchTest {
 
         driver.findElement(By.xpath("*[@id=\"root\"]/div/div[2]/div/div/div/nav/ul/li[8]/button/div/span"))
                 .click();
-        driver.findElement(By.xpath("/html/body/div[7]/div/div/form/input")).sendKeys("");
+        driver.findElement(By.xpath("/html/body/div[7]/div/div/form/input")).sendKeys("Friends");
         driver.findElement(By.className("button-ytt3w")).click();
 
         System.out.println("Searched successfully at " + LocalDateTime.now());
