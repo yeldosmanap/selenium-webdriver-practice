@@ -1,0 +1,70 @@
+[INFO ] 2022-10-11 02:45:11.308 [main] Log - Tests is starting!
+[INFO ] 2022-10-11 02:45:13.878 [main] Log - Opening Guru Tour Website.
+[INFO ] 2022-10-11 02:45:16.624 [main] Log - Going to Login Page..
+[INFO ] 2022-10-11 02:46:15.038 [main] Log - Tests are ending!
+[INFO ] 2022-10-11 02:47:20.813 [main] Log - Tests is starting!
+[INFO ] 2022-10-11 02:47:28.086 [main] Log - Opening Guru Tour Website.
+[INFO ] 2022-10-11 02:47:41.758 [main] Log - Going to Login Page..
+[INFO ] 2022-10-11 02:47:55.436 [main] Log - Trying to login the GuruTour.
+[INFO ] 2022-10-11 02:48:07.950 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-10-11 02:48:23.293 [main] Log - Tests are ending!
+[INFO ] 2022-10-11 02:51:17.006 [main] Log - Tests is starting!
+[INFO ] 2022-10-11 02:52:04.913 [main] Log - Opening Guru Tour Website.
+[INFO ] 2022-10-11 02:52:08.924 [main] Log - Going to Login Page..
+[INFO ] 2022-10-11 02:52:17.771 [main] Log - Trying to login the GuruTour.
+[INFO ] 2022-10-11 02:52:23.687 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-10-11 02:53:48.844 [main] Log - Tests are ending!
+[INFO ] 2022-10-11 02:55:56.646 [main] Log - Tests is starting!
+[INFO ] 2022-10-11 02:56:04.894 [main] Log - Opening Guru Tour Website.
+[INFO ] 2022-10-11 02:56:09.001 [main] Log - Going to Login Page..
+[INFO ] 2022-10-11 02:56:22.692 [main] Log - Trying to login the GuruTour.
+[INFO ] 2022-10-11 02:56:30.300 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-10-11 02:56:43.615 [main] Log - Tests are ending!
+[INFO ] 2022-10-11 02:58:19.936 [main] Log - Tests is starting!
+[INFO ] 2022-10-11 02:58:30.580 [main] Log - Opening Guru Tour Website.
+[INFO ] 2022-10-11 02:58:34.964 [main] Log - Going to Login Page..
+[INFO ] 2022-10-11 02:59:01.246 [main] Log - Trying to login the GuruTour.
+[INFO ] 2022-10-11 02:59:18.349 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-10-11 02:59:56.298 [main] Log - Tests are ending!
+[INFO ] 2022-10-11 03:00:43.997 [main] Log - Tests is starting!
+[INFO ] 2022-10-11 03:00:46.138 [main] Log - Opening Guru Tour Website.
+[INFO ] 2022-10-11 03:00:48.966 [main] Log - Going to Login Page..
+[INFO ] 2022-10-11 03:01:06.081 [main] Log - Tests are ending!
+[INFO ] 2022-10-11 03:01:14.973 [main] Log - Tests is starting!
+[INFO ] 2022-10-11 03:01:17.065 [main] Log - Opening Guru Tour Website.
+[INFO ] 2022-10-11 03:01:21.104 [main] Log - Going to Login Page..
+[INFO ] 2022-10-11 03:01:21.239 [main] Log - Trying to login the GuruTour.
+[INFO ] 2022-10-11 03:01:25.291 [main] Log - Verifying login username.
+[INFO ] 2022-10-11 03:40:33.889 [main] Log - Tests is starting!
+[INFO ] 2022-10-11 03:40:36.142 [main] Log - Opening N11 Website.
+[INFO ] 2022-10-11 03:40:38.858 [main] Log - Going to Login Page..
+[INFO ] 2022-10-11 03:40:49.059 [main] Log - Tests are ending!
+[INFO ] 2022-10-11 03:41:29.853 [main] Log - Tests is starting!
+[INFO ] 2022-10-11 03:41:31.942 [main] Log - Opening N11 Website.
+[INFO ] 2022-10-11 03:41:37.136 [main] Log - Going to Login Page..
+[INFO ] 2022-10-11 03:41:37.271 [main] Log - Trying to login the N11.
+[INFO ] 2022-10-11 03:41:40.853 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-10-11 03:41:40.927 [main] Log - Tests are ending!
+[INFO ] 2022-10-11 03:43:15.644 [main] Log - Tests is starting!
+[INFO ] 2022-10-11 03:43:17.771 [main] Log - Opening N11 Website.
+[INFO ] 2022-10-11 03:43:22.524 [main] Log - Going to Login Page..
+[INFO ] 2022-10-11 03:43:22.641 [main] Log - Trying to login the N11.
+[INFO ] 2022-10-11 03:43:26.488 [main] Log - Tests are ending!
+[INFO ] 2022-10-11 03:47:45.788 [main] Log - Tests is starting!
+[INFO ] 2022-10-11 03:47:47.703 [main] Log - Opening N11 Website.
+[INFO ] 2022-10-11 03:47:51.975 [main] Log - Going to Login Page..
+[INFO ] 2022-10-11 03:47:52.092 [main] Log - Trying to login the N11.
+[INFO ] 2022-10-11 03:47:55.693 [main] Log - Tests are ending!
+[INFO ] 2022-10-11 03:50:01.930 [main] Log - Tests is starting!
+[INFO ] 2022-10-11 03:50:04.420 [main] Log - Opening N11 Website.
+[INFO ] 2022-10-11 03:50:08.971 [main] Log - Going to Login Page..
+[INFO ] 2022-10-11 03:50:09.111 [main] Log - Trying to login the N11.
+[INFO ] 2022-10-11 03:50:11.687 [main] Log - Verifying login username.
+[INFO ] 2022-10-11 03:50:11.794 [main] Log - Verifying login password.
+[INFO ] 2022-10-11 03:50:11.897 [main] Log - Tests are ending!
+[INFO ] 2022-10-11 03:56:56.563 [main] Log - Tests is starting!
+[INFO ] 2022-10-11 03:56:59.224 [main] Log - Opening N11 Website.
+[INFO ] 2022-10-11 03:57:03.794 [main] Log - Going to Login Page..
+[INFO ] 2022-10-11 03:57:03.930 [main] Log - Trying to login the N11.
+[INFO ] 2022-10-11 03:57:08.414 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-10-11 03:57:08.448 [main] Log - Tests are ending!

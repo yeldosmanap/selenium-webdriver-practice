@@ -1,0 +1,75 @@
+[INFO ] 2022-10-12 03:13:06.600 [main] Log - Tests is starting!
+[INFO ] 2022-10-12 03:13:16.829 [main] Log - Opening N11 Website.
+[INFO ] 2022-10-12 03:13:23.057 [main] Log - Going to Login Page..
+[INFO ] 2022-10-12 03:13:34.704 [main] Log - Trying to login the N11.
+[INFO ] 2022-10-12 03:13:54.385 [main] Log - Tests are ending!
+[INFO ] 2022-10-12 03:14:23.107 [main] Log - Tests is starting!
+[INFO ] 2022-10-12 03:14:25.172 [main] Log - Opening N11 Website.
+[INFO ] 2022-10-12 03:14:30.348 [main] Log - Going to Login Page..
+[INFO ] 2022-10-12 03:14:34.002 [main] Log - Trying to login the N11.
+[INFO ] 2022-10-12 03:14:36.264 [main] Log - Verifying successful authorization.
+[INFO ] 2022-10-12 03:14:36.307 [main] Log - Tests are ending!
+[INFO ] 2022-10-12 03:45:37.013 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-10-12 03:45:37.047 [main] Log - Tests is starting!
+[INFO ] 2022-10-12 03:45:38.895 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-10-12 03:45:39.335 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is skipped.
+[INFO ] 2022-10-12 03:45:39.337 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-10-12 03:45:39.339 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is failed.
+[INFO ] 2022-10-12 03:45:39.478 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-10-12 03:45:39.624 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is skipped.
+[INFO ] 2022-10-12 03:45:39.627 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-10-12 03:45:39.629 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is failed.
+[INFO ] 2022-10-12 03:45:39.780 [main] Log - Tests are ending!
+[INFO ] 2022-10-12 03:45:39.982 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-10-12 03:47:18.024 [main] Log - Tests is starting!
+[INFO ] 2022-10-12 03:47:20.222 [main] Log - Tests are ending!
+[INFO ] 2022-10-12 03:48:50.857 [main] Log - Tests is starting!
+[INFO ] 2022-10-12 03:48:53.428 [main] Log - Tests are ending!
+[INFO ] 2022-10-12 03:50:06.711 [main] Log - Tests is starting!
+[INFO ] 2022-10-12 03:50:08.958 [main] Log - Opening N11 Website.
+[INFO ] 2022-10-12 03:50:13.943 [main] Log - Going to Login Page..
+[INFO ] 2022-10-12 03:50:14.066 [main] Log - Trying to login the N11.
+[INFO ] 2022-10-12 03:50:19.050 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-10-12 03:50:19.072 [main] Log - Tests are ending!
+[INFO ] 2022-10-12 03:50:34.845 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-10-12 03:50:34.891 [main] Log - Tests is starting!
+[INFO ] 2022-10-12 03:50:36.989 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-10-12 03:50:37.254 [main] Log - Opening N11 Website.
+[INFO ] 2022-10-12 03:50:41.658 [main] Log - Going to Login Page..
+[INFO ] 2022-10-12 03:50:41.778 [main] Log - Trying to login the N11.
+[INFO ] 2022-10-12 03:51:05.703 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is failed.
+[INFO ] 2022-10-12 03:51:16.101 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-10-12 03:52:06.589 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-10-12 03:52:06.618 [main] Log - Tests is starting!
+[INFO ] 2022-10-12 03:52:08.454 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-10-12 03:52:08.810 [main] Log - Opening N11 Website.
+[INFO ] 2022-10-12 03:52:13.816 [main] Log - Going to Login Page..
+[INFO ] 2022-10-12 03:52:13.954 [main] Log - Trying to login the N11.
+[INFO ] 2022-10-12 03:52:17.777 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-10-12 03:52:17.811 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is succeed.
+[INFO ] 2022-10-12 03:52:17.821 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-10-12 03:52:17.822 [main] Log - Opening N11 Website.
+[INFO ] 2022-10-12 03:52:20.632 [main] Log - Going to Login Page..
+[INFO ] 2022-10-12 03:52:21.583 [main] Log - Trying to login the N11.
+[INFO ] 2022-10-12 03:52:22.531 [main] Log - Verifying login username.
+[INFO ] 2022-10-12 03:52:22.625 [main] Log - Verifying login password.
+[INFO ] 2022-10-12 03:52:22.710 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is succeed.
+[INFO ] 2022-10-12 03:52:22.713 [main] Log - Tests are ending!
+[INFO ] 2022-10-12 03:52:22.986 [main] Log - I am in onFinish method LoginTest
+[INFO ] 2022-10-12 04:12:23.360 [main] Log - I am in onStart method LoginTest
+[INFO ] 2022-10-12 04:12:23.402 [main] Log - Tests is starting!
+[INFO ] 2022-10-12 04:12:25.428 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is starting.
+[INFO ] 2022-10-12 04:12:25.678 [main] Log - Opening N11 Website.
+[INFO ] 2022-10-12 04:12:30.151 [main] Log - Going to Login Page..
+[INFO ] 2022-10-12 04:12:30.282 [main] Log - Trying to login the N11.
+[INFO ] 2022-10-12 04:12:33.883 [main] Log - Verifying javascript login errors.
+[INFO ] 2022-10-12 04:12:33.932 [main] Log - invalidLoginTest_InvalidUserNameInvalidPassword test is succeed.
+[INFO ] 2022-10-12 04:12:33.944 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is starting.
+[INFO ] 2022-10-12 04:12:33.945 [main] Log - Opening N11 Website.
+[INFO ] 2022-10-12 04:12:35.945 [main] Log - Going to Login Page..
+[INFO ] 2022-10-12 04:12:37.843 [main] Log - Trying to login the N11.
+[INFO ] 2022-10-12 04:12:38.212 [main] Log - Verifying login username.
+[INFO ] 2022-10-12 04:12:38.301 [main] Log - Verifying login password.
+[INFO ] 2022-10-12 04:12:38.379 [main] Log - invalidLoginTest_EmptyUserEmptyPassword test is succeed.
+[INFO ] 2022-10-12 04:12:38.382 [main] Log - Tests are ending!
+[INFO ] 2022-10-12 04:12:38.667 [main] Log - I am in onFinish method LoginTest

@@ -1,14 +1,16 @@
+package assignment4;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
-public class LoginPage {
+public class FlightsLoginPage {
     WebDriver driver;
     // Paths which it'll get from application.properties file
     By usernamePath = By.name(PropertiesReader.getParam("username-login-path"));
     By passwordPath = By.name(PropertiesReader.getParam("password-login-path"));
     By loginButtonPath = By.name(PropertiesReader.getParam("submit-button-login-path"));
 
-    public LoginPage(WebDriver driver) {
+    public FlightsLoginPage(WebDriver driver) {
         this.driver = driver;
     }
 

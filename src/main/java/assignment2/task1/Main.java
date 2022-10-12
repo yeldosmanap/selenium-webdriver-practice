@@ -24,6 +24,8 @@ public class Main {
                         By.xpath("/html/body/div[1]/div[3]/form/div[1]/div[1]/div[1]/div/div[2]/input"))
                 .sendKeys("Software Quality");
 
+        driver.findElement(By.className("lnXdpd")).click();
+
         // Find "Google search" button and click using click() method of driver
         driver.findElement(By.xpath("/html/body/div[1]/div[3]/form/div[1]/div[1]/div[3]/center/input[1]"))
                 .click();

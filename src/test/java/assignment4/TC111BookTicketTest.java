@@ -1,3 +1,5 @@
+package assignment4;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -9,7 +11,7 @@ import java.time.Duration;
 public class TC111BookTicketTest {
     WebDriver driver;
     // Object of login page
-    LoginPage loginObject;
+    FlightsLoginPage loginObject;
     // Object of book flight page
     BookFlightPage bookFlightPage;
     // Get the driver name and path from application.properties file
@@ -46,7 +48,7 @@ public class TC111BookTicketTest {
         String password = PropertiesReader.getParam("password");
 
         // Create Login Page object
-        loginObject = new LoginPage(driver);
+        loginObject = new FlightsLoginPage(driver);
 
         if (driver.findElements(By.className("btn")).size() > 0) {
             System.out.println("Button exists");
